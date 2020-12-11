@@ -1,0 +1,40 @@
+nav ul{
+    padding:0;
+    list-style: none;
+}
+
+nav li{
+display:inline-block;
+
+;
+
+}
+
+nav a
+{
+    color:#44a6ec;
+    text-decoration: none;
+    text-transform: uppercase; 
+}
+nav a:hover{
+
+    color:yellow;
+    transition: .4s;
+
+}
+
+img
+{
+    width:150px ;
+}
+
+footer{
+
+    background-color:#44a6ec ;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    color:#44a6ec;
+}
